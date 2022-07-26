@@ -1,4 +1,4 @@
-## Olá! Meu nome é Jonatha Fernandes.
+## Olá! Meu nome é Jonatha Fernandes. 🙃 
 Sou estudante de Análise e Desenvolvimento de Sistemas.
 
  <div>
