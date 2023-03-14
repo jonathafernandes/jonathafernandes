@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Jonatha Fernandes. 👋🏽
-Sou estudante de Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas.
 
  <div>
    <a href="https://github.com/jonathafernandes">
