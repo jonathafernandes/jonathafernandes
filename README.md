@@ -1,24 +1,54 @@
-## Olá! Meu nome é Jonatha Fernandes. 👋🏽
-Sou desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas.
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jonathafernandes/34034471de111506a0d209d5e5bc7a77/raw/5a8f1613b6344d3e62429d051c17b3e9cf09c772/githubcard.svg"/>
+<h1 align="left">Hi, I'm Jonatha Fernandes 👋🏽</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathafernandes&color=brightgreen" alt="Profile views" /> </p>
 
- <div>
+- 🔥 Web developer front-end 
+
+- 👨🏽‍🎓 Student of ADS in Uninassau 
+
+- 💬 Ask me about **JavaScript, HTML, CSS**
+
+- 👨‍💻 More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/)
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
    <a href="https://github.com/jonathafernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathafernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathafernandes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=jonathafernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathafernandes&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-<div> 
-  <a href="https://instagram.com/_jonathafernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jonathafernandes/jonathafernandes/blob/output/github-contribution-grid-snake.svg)
+<br>
 
-</div>
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://instagram.com/_jonathafernandes" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-_jonathafernandes-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/jonathafernandes-/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jonathafernandes-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/_jonatha__" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-_jonatha__-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
+</a>
+</p>
+
+<br><br>
+<!--
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=__jonatha__&layout=wide&show_reply=off&show_retweet=off" />
+-->
