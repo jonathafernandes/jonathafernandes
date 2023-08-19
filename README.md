@@ -10,7 +10,7 @@
 
 - 👨‍💻 More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/)
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -30,7 +30,7 @@
 <p align="left">
    <a href="https://github.com/jonathafernandes">
    <img width="380em" src="https://github-readme-stats.vercel.app/api?username=jonathafernandes&theme=aura&show_icons=true"/>
-   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathafernandes&theme=aura&hide_progress=true"/>
+   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathafernandes&theme=aura&layout=compact"/>
 </p>
 
 <br>
