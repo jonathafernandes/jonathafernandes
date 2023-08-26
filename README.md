@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jonathafernandes/34034471de111506a0d209d5e5bc7a77/raw/5a8f1613b6344d3e62429d051c17b3e9cf09c772/githubcard.svg"/>
 <h1 align="left">Hi, I'm Jonatha Fernandes 👋🏽</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathafernandes&color=brightgreen" alt="Profile views" /> </p>
 
