@@ -1,5 +1,5 @@
 ## Hi, I'm Jonatha Fernandes 👋🏽
-🔥 Web developer e student of ADS. More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/).
+🔥 Web developer and student of ADS. More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/).
 
 <br>
 
