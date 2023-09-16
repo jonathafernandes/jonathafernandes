@@ -1,54 +1,15 @@
-<h1 align="left">Hi, I'm Jonatha Fernandes 👋🏽</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathafernandes&color=brightgreen" alt="Profile views" /> </p>
-
-- 🔥 Web developer front-end 
-
-- 👨🏽‍🎓 Student of ADS in Uninassau 
-
-- 💬 Ask me about **JavaScript, React, CSS**
-
-- 👨‍💻 More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/)
+## Hi, I'm Jonatha Fernandes 👋🏽
+🔥 Web developer e student of ADS. More at [jonathafernandes.vercel.app](https://jonatha-fernandes.vercel.app/).
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,markdown,git,github,javascript,bootstrap,react,typescript,nodejs" />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-NodeJS-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-<br><br>
+<br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
+## GitHub Analytics
 <p align="left">
-   <a href="https://github.com/jonathafernandes">
-   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=jonathafernandes&theme=aura&show_icons=true"/>
-   <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathafernandes&theme=aura&layout=compact"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathafernandes&theme=aura" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonathafernandes&theme=aura" />
 </p>
-
-<br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://instagram.com/_jonathafernandes" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-_jonathafernandes-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/jonathafernandes-/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jonathafernandes-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/_jonatha__" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-_jonatha__-05122A?style=for-the-badge&logo=twitter" alt="twitter"/>  
-</a>
-</p>
-
-<br><br>
-<!--
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=__jonatha__&layout=wide&show_reply=off&show_retweet=off" />
--->
