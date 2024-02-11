@@ -4,7 +4,7 @@
 <br/>
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,sass,css,markdown,git,github,javascript,bootstrap,react,typescript,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,sass,css,markdown,git,github,javascript,bootstrap,react,tailwind,typescript,nodejs,vite,powershell,vscode,linux" />
 
 <br/>
 
