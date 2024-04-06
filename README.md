@@ -1,5 +1,8 @@
-## Hi, I'm Jonatha Fernandes 👋🏽
-🔥 Web developer and student of ADS. More at [jonathafernandes.vercel.app](https://jonathafernandes.vercel.app/).
+## Hi, I'm Jonatha Fernandes 👋🏽.
+- 🔥 Web Developer.
+- 🔭 I’m currently working on React, JavaScript, TypeScript e Node.js.
+- 📝 I regularly write articles on my [blog](https://jonathafernandes.github.io/blog.github.io/).
+- ▶️ More at [jonathafernandes.vercel.app](https://jonathafernandes.vercel.app/).
 
 <br/>
 
