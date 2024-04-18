@@ -13,7 +13,7 @@
 <br/>
 
 ## GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathafernandes&theme=aura-dark&locale=pt_BR&card_width=620)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathafernandes&theme=aura-dark&locale=pt_BR&card_width=613)](https://git.io/streak-stats)
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathafernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=aura&hide_border=true" height="180px" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonathafernandes&theme=aura" height="180px"/>
