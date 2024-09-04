@@ -6,7 +6,7 @@ Web Developer @GeinfoPcal.
 [![Linkedin Badge](https://img.shields.io/badge/-Jonatha%20Fernandes-7f5ec7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathafernandes-/)](https://www.linkedin.com/in/jonathafernandes-/) 
 [![Instagram Badge](https://img.shields.io/badge/-_jonathafernandes-7f5ec7?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jonathafernandes/)](https://www.instagram.com/_jonathafernandes/) 
 
-I’m currently working on React, JavaScript, TypeScript e Node.js. I regularly write articles on my [blog](https://jonathafernandes.github.io/blog.github.io/). More at [jonathafernandes.vercel.app](https://jonathafernandes.vercel.app/).
+I’m currently working on React, JavaScript, Next.js, TypeScript e Node.js. I regularly write articles on my [blog](https://jonathafernandes.github.io/blog.github.io/). More at [jonathafernandes.vercel.app](https://jonathafernandes.vercel.app/).
 
 <br/>
 <div style="display:flex;">
