@@ -1,12 +1,20 @@
 ## Jonatha Fernandes
 
-Web Developer @GeinfoPcal.
+Web Developer at <a href="https://github.com/GeinfoPcal" target="_blank">@GeinfoPcal</a> and Head of Web Development at <a href="https://www.instagram.com/b4comunicacao/" target="_blank">@B4Comunicacao</a>.
 
-[![Twitter Badge](https://img.shields.io/badge/-_jonatha__-7f5ec7?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/_jonatha__)](https://twitter.com/_jonatha__) 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonatha%20Fernandes-7f5ec7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathafernandes-/)](https://www.linkedin.com/in/jonathafernandes-/) 
-[![Instagram Badge](https://img.shields.io/badge/-_jonathafernandes-7f5ec7?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jonathafernandes/)](https://www.instagram.com/_jonathafernandes/) 
+<a href="https://twitter.com/_jonatha__" target="_blank">
+  <img src="https://img.shields.io/badge/-_jonatha__-7f5ec7?style=flat-square&logo=X&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jonathafernandes-/" target="_blank">
+  <img src="https://img.shields.io/badge/-Jonatha%20Fernandes-7f5ec7?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_jonathafernandes/" target="_blank">
+  <img src="https://img.shields.io/badge/-_jonathafernandes-7f5ec7?style=flat-square&logo=Instagram&logoColor=white" />
+</a>
 
-I’m currently working on React, JavaScript, Next.js, TypeScript e Node.js. I regularly write articles on my [blog](https://jonathafernandes.github.io/blog.github.io/). More at [jonathafernandes.vercel.app](https://jonathafernandes.vercel.app/).
+I’m currently working on React, JavaScript, Next.js, TypeScript, and Node.js. I regularly write articles on my 
+<a href="https://jonathafernandes.github.io/blog.github.io/" target="_blank">blog</a>. More at 
+<a href="https://jonathafernandes.tech/" target="_blank">jonathafernandes.tech</a>.
 
 <br/>
 <div style="display:flex;">
